@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+};
+
+.name-color{
+    color: brown;
+};
+.sction-class{
+    width: 100%;
+}
+a{
+    color: red;
+};
+
+.frist-div{
+    
+}
+.secon-div{
+    width: 50%;
+    float: left;
+};
